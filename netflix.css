@@ -1,18 +1,18 @@
-/* Reset some default styles for better consistency */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Basic styling for the body */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #000;
     color: #fff;
 }
 
-/* Header styles */
+
 header {
     background-color: #111;
     display: flex;
@@ -53,7 +53,7 @@ nav {
     color: #fff;
 }
 
-/* Hero section styles */
+
 .hero {
     background-image: url('netflix-hero.jpg');
     background-size: cover;
@@ -81,12 +81,12 @@ nav {
     cursor: pointer;
 }
 
-/* Featured section styles (placeholder) */
+
 .featured {
     padding: 50px;
 }
 
-/* Footer styles (placeholder) */
+
 footer {
     background-color: #111;
     padding: 20px;
